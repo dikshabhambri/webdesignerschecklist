@@ -1,5 +1,5 @@
 {
-  "name": "pswebchecklist",
+  "name": "webchecklist",
   "private": true,
   "dependencies": {
     "modernizr": "~2.8.2",
